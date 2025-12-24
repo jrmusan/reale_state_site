@@ -1,0 +1,14 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="200" cy="200" r="200" fill="#667eea"/>
+  
+  <!-- Person icon -->
+  <!-- Head -->
+  <circle cx="200" cy="150" r="50" fill="#ffffff"/>
+  
+  <!-- Body -->
+  <path d="M 200 200 Q 150 220 120 280 L 120 350 Q 120 360 130 360 L 270 360 Q 280 360 280 350 L 280 280 Q 250 220 200 200 Z" fill="#ffffff"/>
+  
+  <!-- Text -->
+  <text x="200" y="390" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle">Agent Photo</text>
+</svg>
